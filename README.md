@@ -1,7 +1,7 @@
 # First-C-Program
 Customer Register
 
-Download all the files in order to run the program properly.
+Download all the files and keep them in the same folder in order to run the program properly.
 
 On the login screen you have 3 username and password alternatives:
 
